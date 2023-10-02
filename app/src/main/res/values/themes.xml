@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherAPPExample" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.WeatherAPPExample" parent="Base.Theme.WeatherAPPExample">
+        <item name="colorPrimary" >#2E44C5</item>
+    </style>
+
+    <style name="memeAPP" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="colorPrimary" >#FFEB3B</item>
+    </style>
+
+</resources>

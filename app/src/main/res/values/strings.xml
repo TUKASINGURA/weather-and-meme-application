@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherAPPExample</string>
+    <string name="api_key">53cee6450a4cecb1da85cd3f94cd6aed</string>
+    <string name="location">" Location"</string>
+    <string name="updated_at">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="min_temp">Min tem</string>
+    <string name="max_temp">Max temp</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="pressure">Pressure</string>
+    <string name="sunset">SunSet</string>
+    <string name="humidity">Humidity</string>
+    <string name="good">Good</string>
+    <string name="fair">Fair</string>
+    <string name="moderate">Moderate</string>
+    <string name="poor">Poor</string>
+    <string name="very_poor">Very Poor</string>
+    <string name="air_quality">Air Quality</string>
+    <string name="perfect">perfect</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="searchCity">Search City here....</string>
+    <string name="devepedBy">Developed By:TUKASINGURA RICHARD</string>
+</resources>
