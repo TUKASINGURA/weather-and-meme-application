@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
                     textDisplayOnScreen.text = "${response.main.temp.toInt()}°C"
 
                     val textDisplayOnScre = findViewById<TextView>(R.id.tv_location)
-                    textDisplayOnScre.text = "City ${response.name}"
+                    textDisplayOnScre.text = "${response.name} City"
 
                     val timeUpdate = findViewById<TextView>(R.id.tv_update_time)
                     timeUpdate.text = "TimeZone ${response.timezone}"
